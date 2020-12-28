@@ -71,3 +71,5 @@ BN_Avg_ResNet:
 GaussianNet:
 60.021669888flops 1.516884G 72.2591495513916s
 ```
+
+Performance on accuracy remains at the same level, more details will be released later by Professor Zheng Guang
